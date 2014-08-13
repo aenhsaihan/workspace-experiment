@@ -41,8 +41,13 @@
 		<key>15C2E832-5A28-41BE-9C2B-F4FF0EC49D8D</key>
 		<string>https://github.com/aenhsaihan/HugeProject.git</string>
 	</dict>
+	<key>IDESourceControlProjectRequiredConfigurationsDictionary</key>
+	<dict>
+		<key>7225ADBB-3FB8-43F8-9AF7-847F21D15A85</key>
+		<true/>
+	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/aenhsaihan/workspace-experiment.git</string>
+	<string>file:///Users/citta_anar/Desktop/WorkSpace10/workspace-experiment/ActualWorkspace.xcworkspace/</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
