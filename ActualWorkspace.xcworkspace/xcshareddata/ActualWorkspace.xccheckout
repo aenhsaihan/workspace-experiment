@@ -16,6 +16,8 @@
 		<string>https://github.com/aenhsaihan/workspace-experiment.git</string>
 		<key>6F27FC27-04A6-4CA7-B6CA-FB8CF7081F43</key>
 		<string>https://github.com/aenhsaihan/Core-Data.git</string>
+		<key>8994ED0A-3732-4EBC-983B-8EA3B3884710</key>
+		<string>https://github.com/aenhsaihan/third-project-for-workspace.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ActualWorkspace.xcworkspace</string>
@@ -27,6 +29,8 @@
 		<string>..</string>
 		<key>6F27FC27-04A6-4CA7-B6CA-FB8CF7081F43</key>
 		<string>../../Core-Data</string>
+		<key>8994ED0A-3732-4EBC-983B-8EA3B3884710</key>
+		<string>../../../third-project-for-workspace</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
@@ -41,7 +45,7 @@
 		<true/>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/aenhsaihan/workspace-experiment.git</string>
+	<string>file:///Users/citta_anar/Desktop/WorkSpace3/workspace-experiment/ActualWorkspace.xcworkspace/</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -75,6 +79,14 @@
 			<string>15C2E832-5A28-41BE-9C2B-F4FF0EC49D8D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>HugeProject</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8994ED0A-3732-4EBC-983B-8EA3B3884710</string>
+			<key>IDESourceControlWCCName</key>
+			<string>third-project-for-workspace</string>
 		</dict>
 	</array>
 </dict>
