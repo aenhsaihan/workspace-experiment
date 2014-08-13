@@ -5,49 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>697F88E5-6E7B-4D9C-82A6-69BACCFB04AD</string>
+	<string>71C270E8-5E75-4F20-9BFE-754764D6B04F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ActualWorkspace</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>15C2E832-5A28-41BE-9C2B-F4FF0EC49D8D</key>
-		<string>https://github.com/aenhsaihan/HugeProject.git/trunk</string>
 		<key>3FC7F71B-F2AA-48BC-AC41-8AB41FABA6AA</key>
 		<string>https://github.com/aenhsaihan/workspace-experiment.git</string>
-		<key>6F27FC27-04A6-4CA7-B6CA-FB8CF7081F43</key>
-		<string>https://github.com/aenhsaihan/Core-Data.git</string>
-		<key>7225ADBB-3FB8-43F8-9AF7-847F21D15A85</key>
-		<string>https://github.com/aenhsaihan/Custom-Data-Input-View-Demo.git</string>
-		<key>8994ED0A-3732-4EBC-983B-8EA3B3884710</key>
-		<string>https://github.com/aenhsaihan/third-project-for-workspace.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ActualWorkspace.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>15C2E832-5A28-41BE-9C2B-F4FF0EC49D8D</key>
-		<string>../../HugeProject</string>
 		<key>3FC7F71B-F2AA-48BC-AC41-8AB41FABA6AA</key>
 		<string>..</string>
-		<key>6F27FC27-04A6-4CA7-B6CA-FB8CF7081F43</key>
-		<string>../../Core-Data</string>
-		<key>7225ADBB-3FB8-43F8-9AF7-847F21D15A85</key>
-		<string>../../Custom-Data-Input-View-Demo</string>
-		<key>8994ED0A-3732-4EBC-983B-8EA3B3884710</key>
-		<string>../../../third-project-for-workspace</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>15C2E832-5A28-41BE-9C2B-F4FF0EC49D8D</key>
-		<string>https://github.com/aenhsaihan/HugeProject.git</string>
-	</dict>
-	<key>IDESourceControlProjectRequiredConfigurationsDictionary</key>
-	<dict>
-		<key>7225ADBB-3FB8-43F8-9AF7-847F21D15A85</key>
-		<true/>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>file:///Users/citta_anar/Desktop/WorkSpace10/workspace-experiment/ActualWorkspace.xcworkspace/</string>
+	<string>https://github.com/aenhsaihan/workspace-experiment.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -61,42 +35,6 @@
 			<string>3FC7F71B-F2AA-48BC-AC41-8AB41FABA6AA</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ActualWorkspace</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6F27FC27-04A6-4CA7-B6CA-FB8CF7081F43</string>
-			<key>IDESourceControlWCCName</key>
-			<string>Core-Data</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7225ADBB-3FB8-43F8-9AF7-847F21D15A85</string>
-			<key>IDESourceControlWCCName</key>
-			<string>Custom-Data-Input-View-Demo</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
-			<string>branches</string>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>trunk</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>15C2E832-5A28-41BE-9C2B-F4FF0EC49D8D</string>
-			<key>IDESourceControlWCCName</key>
-			<string>HugeProject</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8994ED0A-3732-4EBC-983B-8EA3B3884710</string>
-			<key>IDESourceControlWCCName</key>
-			<string>third-project-for-workspace</string>
 		</dict>
 	</array>
 </dict>
