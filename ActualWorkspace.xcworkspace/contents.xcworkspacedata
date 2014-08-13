@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Custom-Data-Input-View-Demo/MathMonsters.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:../../third-project-for-workspace/ThirdProject.xcodeproj">
    </FileRef>
    <FileRef
